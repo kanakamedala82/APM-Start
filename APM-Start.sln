@@ -21,7 +21,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "APM-Start(2)", ".", "{85E89
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "50018"
-		SlnRelativePath = "..\APM-Start\"
 	EndProjectSection
 EndProject
 Global

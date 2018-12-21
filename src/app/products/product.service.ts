@@ -14,7 +14,7 @@ export class ProductService {
             "description": "Leaf rake with 48-inch wooden handle.",
             "price": 19.95,
             "starRating": 3.2,
-            "imageUrl": "https://openclipart.org/test/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+            "imageUrl": "https://openclipart.org/test123456/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
         },
             {
                 "productId": 2,
